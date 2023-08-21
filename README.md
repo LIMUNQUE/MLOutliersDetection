@@ -10,28 +10,24 @@ The objectives are:
 * **Discovery of store-specific outliers** 
 
 ### Solution strategy
-
-.. image:: https://www.researchgate.net/publication/332001318/figure/fig5/AS:962182305050646@1606413546639/Java-Android-application-UML-of-big-data-frameworks-for-strengthening-of-the-security.png
-   :width: 1050
-   :alt: Java Android application UML of big data frameworks
-   :align: center
+<picture> <img src="https://i.ibb.co/R3yZPhN/Whats-App-Image-2023-08-17-at-8-36-16-PM.jpg" width = 500px></picture>
 
 ---
 ## Installation procedure
 
 ##### 1. Download the project
-You can download the project as a zip file using the download botton at the beginning. Additionally, you can clone the project with git using the url of it.
+You can download the project as a zip file using the download button at the beginning. Additionally, you can clone the project with git using the project's url.
 
 ##### 2. Download rye
 Follow the steps of the [guide](https://rye-up.com/guide/installation/)
 remember to add it to the path
 
 ##### 3. Install the dependencies
-Using the cmd locate the folder the project is and type the next command:
+Using the cmd locate the folder where the project is and type the next command:
 ```
 rye sync
 ```
-it will strat to install all the dependencies in the .toml file.
+it will start to install all the dependencies in the .toml file.
 
 Finally you can start the project typing:
 ```
